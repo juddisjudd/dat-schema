@@ -6626,6 +6626,9 @@ enum StashId @indexing(first: 0) {
   SOCKETABLE
   EXPEDITION
   RITUAL
+  BREACH
+  ABYSS
+  RELIC
 }
 
 # Added 0.1
